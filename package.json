@@ -14,7 +14,7 @@
     "morgan": "^1.9.1",
     "mysql2": "^1.7.0",
     "reflect-metadata": "^0.1.13",
-    "typeorm": "^0.2.18",
+    "typeorm": "^0.2.25",
     "ts-node": "3.3.0",
     "typescript": "3.3.3333"
   }
